@@ -1,5 +1,4 @@
-const MAPBOX_ACCESS_TOKEN =
-  "pk.eyJ1Ijoid3lyY2FuIiwiYSI6ImNsZ2pvZzJ3dTB0OGMza252bGFjdTB5dWsifQ.EJAB06pKFrnm05REE4-Lvg";
+const MAPBOX_ACCESS_TOKEN = "ADD KEY HERE";
 
 navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
   enableHighAccuracy: true,
